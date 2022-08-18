@@ -5,11 +5,11 @@ function Text()
 {
     return(
            <div>
-            <div class="box" >
+             
+            <div class="box" > 
             <img src={Lizard}  />  
-            <div class="inside">
+            <div class="inside"> 
 
-            
            <h1>Lizard</h1>
           <p>
                Lizards are wide spread group of squamate
@@ -19,7 +19,8 @@ function Text()
           
            </div>
          </div>
-         </div>
+        
+          </div>
     )
 }
 export default Text;
